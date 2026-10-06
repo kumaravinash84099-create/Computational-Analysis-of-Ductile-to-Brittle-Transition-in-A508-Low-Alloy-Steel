@@ -1,0 +1,2 @@
+# Computational-Analysis-of-Ductile-to-Brittle-Transition-in-A508-Low-Alloy-Steel
+Investigated Ductile-to-Brittle Transition (DBT) behavior of A508 steel across temperature regimes. Evaluated Charpy impact energy under quasi-static, intermediate &amp; dynamic loading. Applied non-linear regression in Python (SciPy) to fit curves &amp; extract DBTT parameters. Built a Strict Lower Bound Safety Envelope for design limits.
